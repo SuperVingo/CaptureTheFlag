@@ -44,7 +44,7 @@ Part 1
 ![H3](https://user-images.githubusercontent.com/20963122/111515138-c9c5ea80-8795-11eb-8980-e25ba9331eac.PNG)  
 go to site.  
 ![p](https://user-images.githubusercontent.com/20963122/111515139-c9c5ea80-8795-11eb-84f1-468a9b411a10.PNG)  
-we can find "cansistently be found on social media". search on google   
+we can find "consistently be found on social media". search on google   
 ![wade](https://user-images.githubusercontent.com/20963122/111515142-ca5e8100-8795-11eb-8686-c8cb31df152d.PNG)  
 can find twitter account.  
 ![f](https://user-images.githubusercontent.com/20963122/111515103-c16daf80-8795-11eb-8a5c-210c26357caa.PNG)  
