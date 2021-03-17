@@ -3,11 +3,12 @@ Beginner
 Magic Bytes
 ----------------------
 ![Q](https://user-images.githubusercontent.com/20963122/111428954-97879f00-873b-11eb-88ec-fd4025ed07a1.PNG)
-download out.txt file.
+download out.txt file.  
 ![notepad](https://user-images.githubusercontent.com/20963122/111428960-99e9f900-873b-11eb-92d5-f63c08a23442.PNG)
-it's not looks just text. open hxd.
+it's not looks just text. open hxd.  
 ![png](https://user-images.githubusercontent.com/20963122/111429076-cef64b80-873b-11eb-80d5-ed6cf52a5d76.PNG)
-we can find PNG file header. so change file extension.![out](https://user-images.githubusercontent.com/20963122/111428956-99516280-873b-11eb-972a-a7d9a63bd6d8.png)
+we can find PNG file header. so change file extension.  
+![out](https://user-images.githubusercontent.com/20963122/111428956-99516280-873b-11eb-972a-a7d9a63bd6d8.png)
 utflag{file_extensions_mean_nothing}
 
 -------------------------------------
